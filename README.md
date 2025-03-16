@@ -37,7 +37,23 @@ The following power bi features were incorporated:
 - Quick measures
 - Drop down
 - Filter
-- Slicers 
+- Slicers
+  
+## Modelling
+Their is no model because it's one table
+
+## Visualization
+The report comprises of 6 KPI'S Requirement question and 5 chart.
+
+![](https://github.com/smartalyst/Electric-vehicle-analysis/blob/main/Electric%20vehicle%20image%20output.PNG)
+You can interract with the report here ![]()
+
+
+
+
+
+
+
 
 
 
