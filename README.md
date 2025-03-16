@@ -82,7 +82,15 @@ Eligibility of 70k vehicles is unknown because battery range has not been resear
 
 ---
 #### Total Vehicles by Model:
-MODEL Y had highest total vehicle of 29k .
+MODEL Y had highest total vehicle of 29k.
+
+---
+## Conclusion and Recommendation
+- Total electric vehicle is 150k,with Average Electric range of 68.
+- WA had highest total vehicle of 150k by State.
+- The total battery electric vehicle is 117k and the % of battery electric vehicle is 78%.
+
+
 
 
 
