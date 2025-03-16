@@ -62,6 +62,15 @@ Year 2023 had highest total vehicle of 37k by model.
 #### Total Vehicles by State:
 WA had highest total vehicle of 150k by State.
 
+#### Total Vehicles by make:
+TESLA had highest total vehicle of 69k by Make.
+
+#### Total Vehicles by CAFV Eligibility:
+18k vehicles were not eligible due to low battery range,this is 11.8% of the total vehicle(150k).
+Eligibility of 70k vehicles is unknown because battery range has not been researched, this make 46% of the total vehicle(150k).
+63k vehicles were  eligible,this makes 41.8% of the total vehicle(150k).
+
+
 
 
 
