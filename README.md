@@ -86,9 +86,15 @@ MODEL Y had highest total vehicle of 29k.
 
 ---
 ## Conclusion and Recommendation
-- Total electric vehicle is 150k,with Average Electric range of 68.
+- The Total electric vehicle is 150k,with Average Electric range of 68.
 - WA had highest total vehicle of 150k by State.
 - The total battery electric vehicle is 117k and the % of battery electric vehicle is 78%.
+  
+  #### Recommendation
+  -since WA had the highest total vehicle by state,more attention should be put in that state so as to maintain the figure
+  -More vehicle of MODEL Y should be produce,since there is increase in demand of the model
+  -More vehicle such as TESLA make should be produced.
+  -The marketing department should come up with strategy to make other vehicles customer's favorites.
 
 
 
