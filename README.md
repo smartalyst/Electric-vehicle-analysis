@@ -91,10 +91,10 @@ MODEL Y had highest total vehicle of 29k.
 - The total battery electric vehicle is 117k and the % of battery electric vehicle is 78%.
   
   #### Recommendation
-  -since WA had the highest total vehicle by state,more attention should be put in that state so as to maintain the figure
-  -More vehicle of MODEL Y should be produce,since there is increase in demand of the model
-  -More vehicle such as TESLA make should be produced.
-  -The marketing department should come up with strategy to make other vehicles customer's favorites.
+  - since WA had the highest total vehicle by state,more attention should be put in that state so as to maintain the figure
+  - More vehicle of MODEL Y should be produce,since there is increase in demand of the model
+  - More vehicle such as TESLA make should be produced.
+  - The marketing department should come up with strategy to make other vehicles customer's favorites.
 
 
 
