@@ -70,6 +70,9 @@ TESLA had highest total vehicle of 69k by Make.
 Eligibility of 70k vehicles is unknown because battery range has not been researched, this make 46% of the total vehicle(150k).
 63k vehicles were  eligible,this makes 41.8% of the total vehicle(150k).
 
+#### Total Vehicles by Model:
+MODEL Y had highest total vehicle of 29k .
+
 
 
 
