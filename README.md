@@ -46,7 +46,7 @@ Their is no model because it's one table
 The report comprises of 6 KPI'S  and 5 chart.
 
 ![](https://github.com/smartalyst/Electric-vehicle-analysis/blob/main/Electric%20vehicle%20image%20output.PNG)
-You can interract with the report !👉[here](https://drive.google.com/drive/folders/1sFy3c4SGSpzAvdml7LKELKAmuRNXnUWv?usp=sharing)
+You can interract with the report👉![here](https://drive.google.com/drive/folders/1sFy3c4SGSpzAvdml7LKELKAmuRNXnUWv?usp=sharing)
 
 ---
 ## Analysis
@@ -95,6 +95,8 @@ MODEL Y had highest total vehicle of 29k.
   - More vehicle of MODEL Y should be produce,since there is increase in demand of the model
   - More vehicle such as TESLA make should be produced.
   - The marketing department should come up with strategy to make other vehicles customer's favorites.
+  ## Author
+  ![Smartalyst]()
 
 
 
