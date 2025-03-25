@@ -96,7 +96,7 @@ MODEL Y had highest total vehicle of 29k.
   - More vehicle such as TESLA make should be produced.
   - The marketing department should come up with strategy to make other vehicles customer's favorites.
   ## Author
-  ![Smartalyst](https://www.linkedin.com/in/adedeji-benjamen-a88a7822a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  ![Smartalyst](https://www.linkedin.com/in/adedeji-benjamen-a88a7822a)
 
 
 
